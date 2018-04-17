@@ -1,0 +1,20 @@
+{
+    "name": "3-bases-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/colors": "^1.2.1",
+        "@types/yargs": "^11.0.0",
+        "colors": "^1.2.1",
+        "yargs": "^11.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^9.6.5"
+    }
+}
